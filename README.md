@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm [Ashutosh bharti] 👋
 
-<!--
-**AshutoshBharti2026/AshutoshBharti2026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Web Developer  
+📚 Currently learning HTML, CSS, and JavaScript  
+💻 Building my coding skills step by step  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills (Learning)
+- HTML  
+- CSS (starting soon)  
+- JavaScript (coming next)  
+
+---
+
+## 📌 My Journey
+I started my coding journey from zero and I am improving every day by building small projects and learning consistently.
+
+---
+✨ I believe in consistency over perfection.
